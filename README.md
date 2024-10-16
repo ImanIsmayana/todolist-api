@@ -1,4 +1,4 @@
-# todolist-api
+# todolist-api (with nodejs expressjs)
 
 After the clone project work perfectly, run the command :
 - cd project_name
