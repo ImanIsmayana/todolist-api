@@ -5,6 +5,8 @@ After the clone project work perfectly, run the command :
 - npm i
 - node server.js
 
+try the endpoint on postman like on pdf file
+
 note :
 endpoint same like on test pdf file, and for the database u can download and set on your local database. and make sure node installed on local pc.
 
